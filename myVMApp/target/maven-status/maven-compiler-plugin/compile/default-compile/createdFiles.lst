@@ -1,0 +1,8 @@
+org\myvmapp\vm\VMState.class
+org\myvmapp\inventory\VMServiceImpl.class
+org\myvmapp\exception\VirtualMachineNotFoundException.class
+org\myvmapp\VMService.class
+org\myvmapp\config\MyAppConfig.class
+org\myvmapp\controller\VMController.class
+org\myvmapp\vm\VirtualMachine.class
+org\myvmapp\config\MyAppInitializer.class
